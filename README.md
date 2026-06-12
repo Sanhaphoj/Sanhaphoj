@@ -13,8 +13,8 @@
 <br/><br/>
 
 <a href="https://github.com/Sanhaphoj/da-demo"><img src="https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1B27" /></a>
-<a href="https://www.linkedin.com/in/sanhaphoj"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" /></a>
-<a href="mailto:gusza557@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" /></a>
+<a href="https://www.linkedin.com/in/sanahaphoj-panichagorn-549011392"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" /></a>
+<a href="mailto:Sanhaphoj2544@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" /></a>
 <a href="https://github.com/Sanhaphoj"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27" /></a>
 
 <br/><br/>
@@ -31,7 +31,7 @@
 
 Software engineer focused on building **complete products** — from data models and APIs to polished, production-grade interfaces. I work across the full stack with a strong interest in **applied AI/ML**, shipping systems where intelligence is a feature, not a demo.
 
-- 🔭 Currently building **GVibe** — an AI-assisted guides and learning platform with canvas-rendered content, an admin management layer, and S3-compatible object storage (Storj)
+- 🔭 Currently building **full-stack web applications** — interactive front-end experiences, clean back-end services, and AI-assisted features integrated from day one
 - 🧠 Deep interest in **LLM integration, retrieval pipelines, and agentic workflows**
 - 🏗️ Product engineering mindset: design systems, performance budgets, security baselines, and clean UX as first-class requirements
 - 📐 Strong believer in **simple architecture over clever architecture**
@@ -106,12 +106,12 @@ Built as a proving ground: ideas are validated here first, then promoted into pr
 
 Designing and shipping full-stack products end to end, with AI-assisted features integrated from day one rather than bolted on.
 
-- Architected and built **GVibe**, a guides platform spanning content authoring, canvas rendering, admin tooling, and S3-compatible object storage integration
+- Designed and built full-stack web applications spanning front-end UI, back-end services, and cloud integration
 - Implemented clean, design-system-driven UI with a no-clutter, production-grade aesthetic
 - Drove the full delivery lifecycle: requirements → architecture → implementation → review → iteration
 - Integrated LLM tooling into the development workflow for code review, design audits, and documentation
 
-`JavaScript` `Node.js` `HTML5 Canvas` `Storj / S3` `OAuth` `Git` `CI/CD` `LLM Integration`
+`JavaScript` `Node.js` `React` `HTML/CSS` `OAuth` `Git` `CI/CD` `LLM Integration`
 
 ---
 
@@ -121,9 +121,9 @@ Designing and shipping full-stack products end to end, with AI-assisted features
 
 | Recognition | Details |
 |:-----------:|:--------|
-| 🥇 **Product Shipped End-to-End** | Took GVibe from empty repo to working platform with admin, storage, and rendering layers |
+| 🥇 **Product Shipped End-to-End** | Takes projects from empty repo to working product — UI, services, and infrastructure |
 | 🧠 **AI-First Workflow** | Built and operates a fully AI-augmented engineering pipeline for design, review, and delivery |
-| 📦 **Architecture Simplicity** | Single-file guide delivery model — zero-framework content artifacts |
+| 📦 **Architecture Simplicity** | Favors lightweight, dependency-minimal designs over framework-heavy stacks |
 | 🌱 **Consistent Builder** | Continuous iteration across features, integrations, and design refinement |
 
 </div>
@@ -224,11 +224,11 @@ learning:
   - Payment & OAuth integration for production SaaS
 
 building:
-  - GVibe: AI-assisted guides platform (deploy + auth + payments phase)
-  - Reusable design system: clean, minimal, zero AI-slop aesthetic
+  - Interactive web applications with AI-assisted features
+  - Reusable design system: clean, minimal, production-grade aesthetic
 
 exploring:
-  - RAG pipelines over structured course content
+  - RAG pipelines over structured content
   - Multi-agent code review & verification workflows
 
 open_to:
@@ -243,8 +243,8 @@ open_to:
 
 <div align="center">
 
-<a href="mailto:gusza557@gmail.com"><img src="https://img.shields.io/badge/Gmail-gusza557@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" /></a>
-<a href="https://www.linkedin.com/in/sanhaphoj"><img src="https://img.shields.io/badge/LinkedIn-Sanhaphoj%20P.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" /></a>
+<a href="mailto:Sanhaphoj2544@gmail.com"><img src="https://img.shields.io/badge/Gmail-Sanhaphoj2544@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" /></a>
+<a href="https://www.linkedin.com/in/sanahaphoj-panichagorn-549011392"><img src="https://img.shields.io/badge/LinkedIn-Sanhaphoj%20P.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" /></a>
 <a href="https://github.com/Sanhaphoj"><img src="https://img.shields.io/badge/GitHub-Sanhaphoj-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27" /></a>
 <a href="https://github.com/Sanhaphoj/da-demo"><img src="https://img.shields.io/badge/Portfolio-da--demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1B27" /></a>
 
