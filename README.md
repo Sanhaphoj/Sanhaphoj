@@ -12,7 +12,7 @@
 
 <br/><br/>
 
-<a href="https://github.com/Sanhaphoj/GVibe"><img src="https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1B27" /></a>
+<a href="https://github.com/Sanhaphoj/da-demo"><img src="https://img.shields.io/badge/Portfolio-Visit-4C1D95?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1B27" /></a>
 <a href="https://www.linkedin.com/in/sanhaphoj"><img src="https://img.shields.io/badge/LinkedIn-Connect-6366F1?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" /></a>
 <a href="mailto:gusza557@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-7C3AED?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" /></a>
 <a href="https://github.com/Sanhaphoj"><img src="https://img.shields.io/badge/GitHub-Follow-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27" /></a>
@@ -79,25 +79,6 @@ Software engineer focused on building **complete products** — from data models
 ## 🚀 Featured Projects
 
 <details>
-<summary><b>🎓 GVibe — AI-Assisted Guides & Learning Platform</b></summary>
-<br/>
-
-A full-stack platform for authoring, managing, and delivering interactive guides — each guide served as a self-contained HTML document rendered in a canvas, with a dedicated admin section for content management.
-
-| Aspect | Details |
-|:-------|:--------|
-| **Stack** | JavaScript, Node.js, HTML5 Canvas, Storj (S3-compatible object storage) |
-| **Scale** | Single-file guide delivery model designed for CDN-friendly, low-overhead distribution |
-| **Performance** | Canvas-rendered content with minimal runtime dependencies per guide |
-| **Security** | Admin-gated content management; OAuth integration in progress |
-| **Impact** | End-to-end content pipeline: authoring → storage → rendering → administration |
-| **Repository** | [Sanhaphoj/GVibe](https://github.com/Sanhaphoj/GVibe) *(private beta)* |
-
-GVibe treats every guide as a portable artifact: a single HTML file stored in object storage and rendered client-side, which keeps the serving layer thin and the content layer fully decoupled. The admin section provides full lifecycle management over the guide catalog.
-
-</details>
-
-<details>
 <summary><b>⚡ da-demo — JavaScript Application Demo</b></summary>
 <br/>
 
@@ -113,25 +94,6 @@ A JavaScript demonstration project exploring application patterns and interactiv
 | **Repository** | [Sanhaphoj/da-demo](https://github.com/Sanhaphoj/da-demo) |
 
 Built as a proving ground: ideas are validated here first, then promoted into production projects with confidence.
-
-</details>
-
-<details>
-<summary><b>🧩 ME — Personal Profile & Experiments</b></summary>
-<br/>
-
-A personal repository for profile assets, experiments, and configuration.
-
-| Aspect | Details |
-|:-------|:--------|
-| **Stack** | Markdown, GitHub Actions |
-| **Scale** | Personal tooling and presentation layer |
-| **Performance** | Static content, zero runtime cost |
-| **Security** | Public assets only |
-| **Impact** | Central home for profile branding and automation |
-| **Repository** | [Sanhaphoj/ME](https://github.com/Sanhaphoj/ME) |
-
-Houses the automation and assets that power this profile.
 
 </details>
 
@@ -284,7 +246,7 @@ open_to:
 <a href="mailto:gusza557@gmail.com"><img src="https://img.shields.io/badge/Gmail-gusza557@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=1A1B27" /></a>
 <a href="https://www.linkedin.com/in/sanhaphoj"><img src="https://img.shields.io/badge/LinkedIn-Sanhaphoj%20P.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=1A1B27" /></a>
 <a href="https://github.com/Sanhaphoj"><img src="https://img.shields.io/badge/GitHub-Sanhaphoj-8B5CF6?style=for-the-badge&logo=github&logoColor=white&labelColor=1A1B27" /></a>
-<a href="https://github.com/Sanhaphoj/GVibe"><img src="https://img.shields.io/badge/Portfolio-GVibe-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1B27" /></a>
+<a href="https://github.com/Sanhaphoj/da-demo"><img src="https://img.shields.io/badge/Portfolio-da--demo-6D28D9?style=for-the-badge&logo=vercel&logoColor=white&labelColor=1A1B27" /></a>
 
 </div>
 
